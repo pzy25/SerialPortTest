@@ -1,0 +1,16 @@
+# ninja log v5
+4	770	7365985382973289	SerialTest0_autogen/timestamp	1504b9083f7c1899
+4	770	7365985382973289	SerialTest0_autogen/mocs_compilation.cpp	1504b9083f7c1899
+4	770	7365985382973289	C:/QT6 code/Cube solver test/SerialTest0/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/SerialTest0_autogen/timestamp	1504b9083f7c1899
+4	770	7365985382973289	C:/QT6 code/Cube solver test/SerialTest0/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/SerialTest0_autogen/mocs_compilation.cpp	1504b9083f7c1899
+782	2178	7365985397808383	CMakeFiles/SerialTest0.dir/MySerial.cpp.obj	3ab266ed2d005439
+770	2522	7365985401246876	CMakeFiles/SerialTest0.dir/main.cpp.obj	554b4e76d55cf7c0
+774	2565	7365985401685395	CMakeFiles/SerialTest0.dir/SerialTest0_autogen/mocs_compilation.cpp.obj	8a6bef22e609f4f1
+778	2855	7365985404565707	CMakeFiles/SerialTest0.dir/mywidget.cpp.obj	f13b8570ab047c65
+2856	3045	7365985406419535	SerialTest0.exe	a98fdef3ef4eeb75
+6	185	7365986028455131	SerialTest0_autogen/timestamp	1504b9083f7c1899
+6	185	7365986028455131	SerialTest0_autogen/mocs_compilation.cpp	1504b9083f7c1899
+6	185	7365986028455131	C:/QT6 code/Cube solver test/SerialTest0/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/SerialTest0_autogen/timestamp	1504b9083f7c1899
+6	185	7365986028455131	C:/QT6 code/Cube solver test/SerialTest0/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/SerialTest0_autogen/mocs_compilation.cpp	1504b9083f7c1899
+204	1809	7365986044706412	CMakeFiles/SerialTest0.dir/mywidget.cpp.obj	f13b8570ab047c65
+1810	1993	7365986046487081	SerialTest0.exe	a98fdef3ef4eeb75
