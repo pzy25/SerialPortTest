@@ -1,16 +1,46 @@
 # ninja log v5
-4	770	7365985382973289	SerialTest0_autogen/timestamp	1504b9083f7c1899
-4	770	7365985382973289	SerialTest0_autogen/mocs_compilation.cpp	1504b9083f7c1899
-4	770	7365985382973289	C:/QT6 code/Cube solver test/SerialTest0/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/SerialTest0_autogen/timestamp	1504b9083f7c1899
-4	770	7365985382973289	C:/QT6 code/Cube solver test/SerialTest0/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/SerialTest0_autogen/mocs_compilation.cpp	1504b9083f7c1899
-782	2178	7365985397808383	CMakeFiles/SerialTest0.dir/MySerial.cpp.obj	3ab266ed2d005439
-770	2522	7365985401246876	CMakeFiles/SerialTest0.dir/main.cpp.obj	554b4e76d55cf7c0
-774	2565	7365985401685395	CMakeFiles/SerialTest0.dir/SerialTest0_autogen/mocs_compilation.cpp.obj	8a6bef22e609f4f1
-778	2855	7365985404565707	CMakeFiles/SerialTest0.dir/mywidget.cpp.obj	f13b8570ab047c65
-2856	3045	7365985406419535	SerialTest0.exe	a98fdef3ef4eeb75
-6	185	7365986028455131	SerialTest0_autogen/timestamp	1504b9083f7c1899
-6	185	7365986028455131	SerialTest0_autogen/mocs_compilation.cpp	1504b9083f7c1899
-6	185	7365986028455131	C:/QT6 code/Cube solver test/SerialTest0/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/SerialTest0_autogen/timestamp	1504b9083f7c1899
-6	185	7365986028455131	C:/QT6 code/Cube solver test/SerialTest0/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/SerialTest0_autogen/mocs_compilation.cpp	1504b9083f7c1899
-204	1809	7365986044706412	CMakeFiles/SerialTest0.dir/mywidget.cpp.obj	f13b8570ab047c65
-1810	1993	7365986046487081	SerialTest0.exe	a98fdef3ef4eeb75
+10	155	7366172531574778	SerialTest0_autogen/timestamp	1504b9083f7c1899
+10	155	7366172531574778	SerialTest0_autogen/mocs_compilation.cpp	1504b9083f7c1899
+10	155	7366172531574778	C:/QT6 code/Cube solver test/SerialTest0/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/SerialTest0_autogen/timestamp	1504b9083f7c1899
+560	2024	7366123026717949	CMakeFiles/SerialTest0.dir/SerialTest0_autogen/mocs_compilation.cpp.obj	8a6bef22e609f4f1
+10	155	7366172531574778	C:/QT6 code/Cube solver test/SerialTest0/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/SerialTest0_autogen/mocs_compilation.cpp	1504b9083f7c1899
+564	2095	7366123027405647	CMakeFiles/SerialTest0.dir/main.cpp.obj	554b4e76d55cf7c0
+583	1801	7366002717931326	CMakeFiles/SerialTest0.dir/MySerial.cpp.obj	3ab266ed2d005439
+174	1917	7366172549172341	CMakeFiles/SerialTest0.dir/mywidget.cpp.obj	f13b8570ab047c65
+1917	2133	7366172551310276	SerialTest0.exe	a98fdef3ef4eeb75
+10	163	7366917356903518	SerialTest0_autogen/timestamp	1504b9083f7c1899
+10	163	7366917356903518	SerialTest0_autogen/mocs_compilation.cpp	1504b9083f7c1899
+10	163	7366917356903518	C:/QT6 code/Cube solver test/SerialTest0/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/SerialTest0_autogen/timestamp	1504b9083f7c1899
+10	163	7366917356903518	C:/QT6 code/Cube solver test/SerialTest0/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/SerialTest0_autogen/mocs_compilation.cpp	1504b9083f7c1899
+182	1815	7366917373408201	CMakeFiles/SerialTest0.dir/mywidget.cpp.obj	f13b8570ab047c65
+1815	2032	7366917375551053	SerialTest0.exe	a98fdef3ef4eeb75
+9	530	7366926347761931	SerialTest0_autogen/timestamp	1504b9083f7c1899
+9	530	7366926347761931	SerialTest0_autogen/mocs_compilation.cpp	1504b9083f7c1899
+9	530	7366926347761931	C:/QT6 code/Cube solver test/SerialTest0/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/SerialTest0_autogen/timestamp	1504b9083f7c1899
+9	530	7366926347761931	C:/QT6 code/Cube solver test/SerialTest0/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/SerialTest0_autogen/mocs_compilation.cpp	1504b9083f7c1899
+531	1900	7366926361993148	CMakeFiles/SerialTest0.dir/SerialTest0_autogen/mocs_compilation.cpp.obj	8a6bef22e609f4f1
+534	1905	7366926362042984	CMakeFiles/SerialTest0.dir/main.cpp.obj	554b4e76d55cf7c0
+537	2298	7366926365951871	CMakeFiles/SerialTest0.dir/mywidget.cpp.obj	f13b8570ab047c65
+2298	2518	7366926368119811	SerialTest0.exe	a98fdef3ef4eeb75
+6	183	7366931927548675	SerialTest0_autogen/timestamp	1504b9083f7c1899
+6	183	7366931927548675	SerialTest0_autogen/mocs_compilation.cpp	1504b9083f7c1899
+6	183	7366931927548675	C:/QT6 code/Cube solver test/SerialTest0/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/SerialTest0_autogen/timestamp	1504b9083f7c1899
+6	183	7366931927548675	C:/QT6 code/Cube solver test/SerialTest0/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/SerialTest0_autogen/mocs_compilation.cpp	1504b9083f7c1899
+204	1877	7366931944490521	CMakeFiles/SerialTest0.dir/mywidget.cpp.obj	f13b8570ab047c65
+1877	2086	7366931946536942	SerialTest0.exe	a98fdef3ef4eeb75
+5	526	7367013856931984	SerialTest0_autogen/timestamp	1504b9083f7c1899
+5	526	7367013856931984	SerialTest0_autogen/mocs_compilation.cpp	1504b9083f7c1899
+5	526	7367013856931984	C:/QT6 code/Cube solver test/SerialTest0/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/SerialTest0_autogen/timestamp	1504b9083f7c1899
+5	526	7367013856931984	C:/QT6 code/Cube solver test/SerialTest0/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/SerialTest0_autogen/mocs_compilation.cpp	1504b9083f7c1899
+531	1954	7367013871778156	CMakeFiles/SerialTest0.dir/SerialTest0_autogen/mocs_compilation.cpp.obj	8a6bef22e609f4f1
+527	1973	7367013871977490	CMakeFiles/SerialTest0.dir/main.cpp.obj	554b4e76d55cf7c0
+534	2338	7367013875586463	CMakeFiles/SerialTest0.dir/mywidget.cpp.obj	f13b8570ab047c65
+2338	2556	7367013877741121	SerialTest0.exe	a98fdef3ef4eeb75
+9	537	7367015980129747	SerialTest0_autogen/timestamp	1504b9083f7c1899
+9	537	7367015980129747	SerialTest0_autogen/mocs_compilation.cpp	1504b9083f7c1899
+9	537	7367015980129747	C:/QT6 code/Cube solver test/SerialTest0/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/SerialTest0_autogen/timestamp	1504b9083f7c1899
+9	537	7367015980129747	C:/QT6 code/Cube solver test/SerialTest0/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/SerialTest0_autogen/mocs_compilation.cpp	1504b9083f7c1899
+538	1908	7367015994402459	CMakeFiles/SerialTest0.dir/SerialTest0_autogen/mocs_compilation.cpp.obj	8a6bef22e609f4f1
+541	1918	7367015994502309	CMakeFiles/SerialTest0.dir/main.cpp.obj	554b4e76d55cf7c0
+545	2317	7367015998456878	CMakeFiles/SerialTest0.dir/mywidget.cpp.obj	f13b8570ab047c65
+2317	2535	7367016000625282	SerialTest0.exe	a98fdef3ef4eeb75

@@ -92,8 +92,10 @@ C:/QT6\ code/Cube\ solver\ test/SerialTest0/build/Desktop_Qt_6_5_3_MinGW_64_bit-
   C:/Qt6/6.5.3/mingw_64/include/QtCore/qversiontagging.h \
   C:/Qt6/6.5.3/mingw_64/include/QtCore/qxptype_traits.h \
   C:/Qt6/6.5.3/mingw_64/include/QtSerialPort/QSerialPort \
+  C:/Qt6/6.5.3/mingw_64/include/QtSerialPort/QSerialPortInfo \
   C:/Qt6/6.5.3/mingw_64/include/QtSerialPort/qserialport.h \
   C:/Qt6/6.5.3/mingw_64/include/QtSerialPort/qserialportglobal.h \
+  C:/Qt6/6.5.3/mingw_64/include/QtSerialPort/qserialportinfo.h \
   C:/Qt6/6.5.3/mingw_64/include/QtSerialPort/qtserialportexports.h \
   C:/Qt6/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed/limits.h \
   C:/Qt6/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed/syslimits.h \

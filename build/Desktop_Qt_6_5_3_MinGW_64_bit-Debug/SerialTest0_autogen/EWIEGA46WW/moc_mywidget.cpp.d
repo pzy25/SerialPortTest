@@ -1,6 +1,7 @@
 C:/QT6\ code/Cube\ solver\ test/SerialTest0/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/SerialTest0_autogen/EWIEGA46WW/moc_mywidget.cpp: C:/QT6\ code/Cube\ solver\ test/SerialTest0/mywidget.h \
   C:/QT6\ code/Cube\ solver\ test/SerialTest0/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/SerialTest0_autogen/moc_predefs.h \
   C:/QT6\ code/Cube\ solver\ test/SerialTest0/MySerial.h \
+  C:/Qt6/6.5.3/mingw_64/include/QtCore/QDebug \
   C:/Qt6/6.5.3/mingw_64/include/QtCore/QObject \
   C:/Qt6/6.5.3/mingw_64/include/QtCore/q20memory.h \
   C:/Qt6/6.5.3/mingw_64/include/QtCore/q20type_traits.h \
@@ -137,10 +138,15 @@ C:/QT6\ code/Cube\ solver\ test/SerialTest0/build/Desktop_Qt_6_5_3_MinGW_64_bit-
   C:/Qt6/6.5.3/mingw_64/include/QtGui/qwindowdefs.h \
   C:/Qt6/6.5.3/mingw_64/include/QtGui/qwindowdefs_win.h \
   C:/Qt6/6.5.3/mingw_64/include/QtSerialPort/QSerialPort \
+  C:/Qt6/6.5.3/mingw_64/include/QtSerialPort/QSerialPortInfo \
   C:/Qt6/6.5.3/mingw_64/include/QtSerialPort/qserialport.h \
   C:/Qt6/6.5.3/mingw_64/include/QtSerialPort/qserialportglobal.h \
+  C:/Qt6/6.5.3/mingw_64/include/QtSerialPort/qserialportinfo.h \
   C:/Qt6/6.5.3/mingw_64/include/QtSerialPort/qtserialportexports.h \
+  C:/Qt6/6.5.3/mingw_64/include/QtWidgets/QMessageBox \
   C:/Qt6/6.5.3/mingw_64/include/QtWidgets/QWidget \
+  C:/Qt6/6.5.3/mingw_64/include/QtWidgets/qdialog.h \
+  C:/Qt6/6.5.3/mingw_64/include/QtWidgets/qmessagebox.h \
   C:/Qt6/6.5.3/mingw_64/include/QtWidgets/qsizepolicy.h \
   C:/Qt6/6.5.3/mingw_64/include/QtWidgets/qtwidgets-config.h \
   C:/Qt6/6.5.3/mingw_64/include/QtWidgets/qtwidgetsexports.h \

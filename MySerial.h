@@ -4,6 +4,7 @@
 #define MYSERIAL_H
 
 #include <QSerialPort>
+#include <QSerialPortInfo>
 #include <QObject>
 
 class MySerial : public QSerialPort

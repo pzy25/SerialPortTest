@@ -4,6 +4,7 @@ C:/QT6 code/Cube solver test/SerialTest0/mywidget.h
  mdp:C:/QT6 code/Cube solver test/SerialTest0/MySerial.h
  mdp:C:/QT6 code/Cube solver test/SerialTest0/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/SerialTest0_autogen/moc_predefs.h
  mdp:C:/QT6 code/Cube solver test/SerialTest0/mywidget.h
+ mdp:C:/Qt6/6.5.3/mingw_64/include/QtCore/QDebug
  mdp:C:/Qt6/6.5.3/mingw_64/include/QtCore/QObject
  mdp:C:/Qt6/6.5.3/mingw_64/include/QtCore/q20memory.h
  mdp:C:/Qt6/6.5.3/mingw_64/include/QtCore/q20type_traits.h
@@ -140,10 +141,15 @@ C:/QT6 code/Cube solver test/SerialTest0/mywidget.h
  mdp:C:/Qt6/6.5.3/mingw_64/include/QtGui/qwindowdefs.h
  mdp:C:/Qt6/6.5.3/mingw_64/include/QtGui/qwindowdefs_win.h
  mdp:C:/Qt6/6.5.3/mingw_64/include/QtSerialPort/QSerialPort
+ mdp:C:/Qt6/6.5.3/mingw_64/include/QtSerialPort/QSerialPortInfo
  mdp:C:/Qt6/6.5.3/mingw_64/include/QtSerialPort/qserialport.h
  mdp:C:/Qt6/6.5.3/mingw_64/include/QtSerialPort/qserialportglobal.h
+ mdp:C:/Qt6/6.5.3/mingw_64/include/QtSerialPort/qserialportinfo.h
  mdp:C:/Qt6/6.5.3/mingw_64/include/QtSerialPort/qtserialportexports.h
+ mdp:C:/Qt6/6.5.3/mingw_64/include/QtWidgets/QMessageBox
  mdp:C:/Qt6/6.5.3/mingw_64/include/QtWidgets/QWidget
+ mdp:C:/Qt6/6.5.3/mingw_64/include/QtWidgets/qdialog.h
+ mdp:C:/Qt6/6.5.3/mingw_64/include/QtWidgets/qmessagebox.h
  mdp:C:/Qt6/6.5.3/mingw_64/include/QtWidgets/qsizepolicy.h
  mdp:C:/Qt6/6.5.3/mingw_64/include/QtWidgets/qtwidgets-config.h
  mdp:C:/Qt6/6.5.3/mingw_64/include/QtWidgets/qtwidgetsexports.h
@@ -443,8 +449,10 @@ C:/QT6 code/Cube solver test/SerialTest0/MySerial.h
  mdp:C:/Qt6/6.5.3/mingw_64/include/QtCore/qversiontagging.h
  mdp:C:/Qt6/6.5.3/mingw_64/include/QtCore/qxptype_traits.h
  mdp:C:/Qt6/6.5.3/mingw_64/include/QtSerialPort/QSerialPort
+ mdp:C:/Qt6/6.5.3/mingw_64/include/QtSerialPort/QSerialPortInfo
  mdp:C:/Qt6/6.5.3/mingw_64/include/QtSerialPort/qserialport.h
  mdp:C:/Qt6/6.5.3/mingw_64/include/QtSerialPort/qserialportglobal.h
+ mdp:C:/Qt6/6.5.3/mingw_64/include/QtSerialPort/qserialportinfo.h
  mdp:C:/Qt6/6.5.3/mingw_64/include/QtSerialPort/qtserialportexports.h
  mdp:C:/Qt6/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed/limits.h
  mdp:C:/Qt6/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed/syslimits.h
